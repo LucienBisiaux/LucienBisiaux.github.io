@@ -1,4 +1,4 @@
-# Lucien Bisiaux
+
 
 Élève en STI2D — Passionné d’ingénierie, conception mécanique et systèmes techniques.
 
